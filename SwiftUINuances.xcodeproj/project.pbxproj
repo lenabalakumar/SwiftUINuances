@@ -11,6 +11,8 @@
 		0CFD34EB2B0E490200E280C5 /* NameFormatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CFD34EA2B0E490200E280C5 /* NameFormatView.swift */; };
 		0CFD34ED2B0E490500E280C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CFD34EC2B0E490500E280C5 /* Assets.xcassets */; };
 		0CFD34F02B0E490500E280C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CFD34EF2B0E490500E280C5 /* Preview Assets.xcassets */; };
+		0CFD34F72B0E653400E280C5 /* CurrencyFormatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CFD34F62B0E653400E280C5 /* CurrencyFormatView.swift */; };
+		0CFD34F92B0E66F200E280C5 /* IntegerFormatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CFD34F82B0E66F200E280C5 /* IntegerFormatView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		0CFD34EA2B0E490200E280C5 /* NameFormatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameFormatView.swift; sourceTree = "<group>"; };
 		0CFD34EC2B0E490500E280C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0CFD34EF2B0E490500E280C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0CFD34F62B0E653400E280C5 /* CurrencyFormatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyFormatView.swift; sourceTree = "<group>"; };
+		0CFD34F82B0E66F200E280C5 /* IntegerFormatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerFormatView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				0CFD34EA2B0E490200E280C5 /* NameFormatView.swift */,
 				0CFD34EC2B0E490500E280C5 /* Assets.xcassets */,
 				0CFD34EE2B0E490500E280C5 /* Preview Content */,
+				0CFD34F62B0E653400E280C5 /* CurrencyFormatView.swift */,
+				0CFD34F82B0E66F200E280C5 /* IntegerFormatView.swift */,
 			);
 			path = SwiftUINuances;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CFD34F92B0E66F200E280C5 /* IntegerFormatView.swift in Sources */,
+				0CFD34F72B0E653400E280C5 /* CurrencyFormatView.swift in Sources */,
 				0CFD34EB2B0E490200E280C5 /* NameFormatView.swift in Sources */,
 				0CFD34E92B0E490200E280C5 /* SwiftUINuancesApp.swift in Sources */,
 			);
